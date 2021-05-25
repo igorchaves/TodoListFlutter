@@ -1,16 +1,27 @@
 # todo_app
 
-My first flutter project
+## Sobre
+Lista de atividades (TodoList) como funcionalidades de adicionar um novo item, marcar ou excluir atividade. Aplicação desenvolvida com Flutter.
 
-## Getting Started
+Activity list (Todoist) as functionality to add a new item, mark or delete activity. Application developed with Flutter.
 
-This project is a starting point for a Flutter application.
+## Getting Started 
+    Para iniciar a aplicação tenha o Flutter instaldo.
+    Link para instalação do Flutter: (https://flutter.dev/docs/get-started/install)
+    
+    To start the application, have Flutter installed.
+    Link for installing Flutter: (https://flutter.dev/docs/get-started/install)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Executar:
+    (git clone https://github.com/igorchaves/TodoListFlutter.git)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    To execute:
+
+    (git clone https://github.com/igorchaves/TodoListFlutter.git)
+
+    no cmd digite:
+    flutter run para iniciar o emulador
+
+    in cmd type
+    flutter run to start the emulator
